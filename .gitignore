@@ -1,0 +1,16 @@
+# Packaging output
+dist/
+*.skill
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Python cache (for evals/testing)
+__pycache__/
+*.pyc
